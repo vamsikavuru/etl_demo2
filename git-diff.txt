@@ -1,0 +1,5 @@
+                                                                             GIT AND GIT HUB Difference
+
+GIT is a free, open-source software distributed version control system (DVCS) designed to manage all source code history. It can keep a history of commits, can reverse changes, and lets developers share code
+
+GIT HUB, on the other hand, is a web-based hosting service for Git repositories. It offers all of Git’s DVCS SCM and has some additional features. This includes collaboration functionality like project management, support ticket management, and bug tracking
